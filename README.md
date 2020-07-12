@@ -3,9 +3,9 @@ I'm a 4th year student at the International University of Sarajevo. I like to Co
 
 In my free time i like to watch 70' lemonade commercials
 
-tweet me at https://twitter.com/avdoo98
+tweet me at  @avdoo98
 
-## More is to come
+## more is to come
 
 <!--
 **avdoB/avdoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
