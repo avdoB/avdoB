@@ -1,7 +1,7 @@
 ### Hi there, I'm Avdo! 👋
-I like to Code and make appealing and presentable interfaces for my apps.
+I design and build presentable interfaces for my apps.
 
-In my free time i  watch commercials.
+In my free time, I  watch commercials.
 
 tweet me at  @avdoo98
 
